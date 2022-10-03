@@ -1,6 +1,6 @@
 ![command line pic](lab0_git.png)
-![VSCODE pic](lab0_git1.png)
-![VSCODE pic2](lab0_git2.png)
+![VSCode pic](lab0_git1.png)
+![VSCode pic2](lab0_git2.png)
 
 # The largest heading
 ## The second largest heading

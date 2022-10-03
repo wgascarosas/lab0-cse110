@@ -1,6 +1,6 @@
-![command line pic](lab0_git.jpg)
-![VSCODE pic](lab0_git1.jpg)
-![VSCODE pic2](lab0_git2.jpg)
+![command line pic](lab0_git.png)
+![VSCODE pic](lab0_git1.png)
+![VSCODE pic2](lab0_git2.png)
 
 # The largest heading
 ## The second largest heading
@@ -28,7 +28,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 [a link](# The largest heading)
 
-![pic1](lab0_git2.jpg)
+![pic1](lab0_git2.png)
 
 - George Washington
 - John Adams
